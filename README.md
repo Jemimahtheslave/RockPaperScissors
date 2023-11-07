@@ -40,10 +40,10 @@ The game includes different computer player strategies:
 
 ## Author
 
-Jemimah Bayode-Taylor under Udacity.
+Rock Paper Scissors Project for Udacity's Web Nanodegree Programs (Jemimah Bayode-Taylor).
 
 ## License
 
-This project is licensed under Udacity
+[LICENSE.txt](https://github.com/Jemimahtheslave/RockPaperScissors/files/13280228/LICENSE.txt)
 
 Enjoy the game and have fun playing Rock, Paper, Scissors!
